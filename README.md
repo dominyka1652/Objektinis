@@ -9,8 +9,8 @@
   
   <h1> Installation and usage </h1>
   <h6> 1.If you do not have codeblocks, download and install it http://www.codeblocks.org/downloads </h6>
-  <h6> 2.Download the final release and open the program called Objektinis1.3 </h6>
-  <h6> 3.Press a button F9 to run the program </h6>
+  <h6> 2.Download the final release and open the program named Objektinis1.3 </h6>
+  <h6> 3.Press the button F9 to run the program </h6>
   <h6> 4.Enter your name </h6>
   <h6> 5.Enter frame size </h6>
   
