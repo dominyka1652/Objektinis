@@ -14,4 +14,4 @@
   <h6> 4.Enter your name </h6>
   <h6> 5.Enter frame size </h6>
   
-  <h4> Enjoy! </h4>
+  <h3> Enjoy! </h3>
